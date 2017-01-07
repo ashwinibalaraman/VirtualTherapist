@@ -1,0 +1,35 @@
+
+<div class="quiz-area" ng-show="inProgress">
+	<div ng-show="!quizOver">
+		<h4>Single Word Associations</h4>
+		<h4>Enter the word that quickly comes to your mind when you see this word:</h4>
+		<p>For correct results please attempt all words</p>
+		
+		
+		<h2 style="color:navy;" id="question">{{question}}</h2>
+		<label>
+			<input id ="answer" type="textbox" name="answer" class="form-control">
+		</label>
+		<button ng-click="checkAnswer()" ng-disabled="disableButton" class="btn btn-lg btn-primary">Next</button>
+		
+	</div>
+
+	<div ng-show="quizOver">
+		<h2>Quiz is over</h2>
+		<div id="score">
+			<h2 style="color:navy;">Score: {{score}}</h2>
+		</div>
+		<p>Typically Patients’ coherence scores were lower (below 0.32) than normal people’s (above 0.43)</p>
+	</div>
+
+
+</div>
+
+
+<div class="intro" ng-show="!inProgress">
+	<h1>A test to measure thought coherence</h1>
+	<p>Word associations is a simple exercise to measure Thought Coherence in people.</p> <p>"Loose word associations" is the fundamental concept underlying formal Thought Disorders seen in psychiatric patients. </p><p>We can expect word association to be less usual in patients with Thought Disorder. </p>
+	<br/><br/><p>This test is an automation of <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1995127/#S5title">Elvevåg, B., Foltz, P. W., Weinberger, D. R., and Goldberg, T. E. (2007). Quantifying incoherence in speech: An automated methodology and novel application to schizophrenia. Schizophrenia Research EXPERIMENT 1: SINGLE WORD ASSOCIATIONS</a></p><br/><br/>
+	<button id="startQuiz" ng-click="start()" class="btn btn-lg btn-primary">Take the test</button>
+
+</div>
