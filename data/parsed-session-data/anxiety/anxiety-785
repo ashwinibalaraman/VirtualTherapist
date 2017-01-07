@@ -1,0 +1,445 @@
+Transcript of Audio File:
+______________________________________________________________________________
+BEGIN TRANSCRIPT:
+CLIENT: [Shuffling sounds] [sound of sitting down] [Clucks] I don't know where to start. [Chuckles] Um, I couldn't get to sleep last night for the life of me.
+THERAPIST: Oh?
+CLIENT: And I took my Ambien, and I still couldn't sleep. I finally started drifting off, and then I started itching everywhere.
+THERAPIST: Huh.
+CLIENT: I have no idea what that was about, but...
+THERAPIST: Wow.
+CLIENT: Uh, I couldn't get to sleep until about four.
+THERAPIST: My goodness.
+CLIENT: And so I e-mailed my boss to say, you know, "Don't know what happened. Horrible allergic reaction or something. Uh, don't expect me in before ten."
+THERAPIST: Yeah.
+CLIENT: Um, and I realized after I got to work that that e-mail bounced because I misspelled his name...
+THERAPIST: Oh.
+CLIENT: ...So he didn't get my message.
+THERAPIST: Oh.
+CLIENT: "What happened?" I explained, and he was understanding, but I still feel terrible. But I was late to work my first week of work, and I had to leave early today, and it was just... [00:01:05]
+THERAPIST: Right.
+CLIENT: And because I didn't get much sleep, I was horribly unfocused. I had to ask him to repeat a couple of things.
+THERAPIST: Uhhh...
+CLIENT: So this wasn't my manager; it was just my mentor, but I refer to them both as my boss, but...
+THERAPIST: I see. The guy you spend a couple of hours with every day?
+CLIENT: Yeah.
+THERAPIST: Yeah.
+CLIENT: Um, so — I don't know — I feel, [chuckles in exasperation] like, down. And I'm at the point in the training process where I know some stuff about how we our tools work, and the tools are all developed internally. Well, no, that's not true. [Swallows] Three of the programs we use are actually industry-standard, but I've only had experience in one of them.
+THERAPIST: Mm-hmm?
+CLIENT: The other two are far more advanced than anything I've worked on before.
+THERAPIST: Mm-hmm?
+CLIENT: Um, but everything else is in-house, and I haven't learned all of the tools yet...
+THERAPIST: Mm-hmm?
+CLIENT: ...And I haven't learned the standard library yet. Uh... [00:02:00]
+THERAPIST: Are these too — what are they tools for? Are they tools, uh, that you use for chip design?
+CLIENT: Yes.
+THERAPIST: OK.
+CLIENT: So they're — they're different tools for different stages.
+[Crosstalk]
+THERAPIST: A lot of [stage threes] (ph) and things like that?
+CLIENT: Yep, yep. So there is one for modeling the gates. There's one for drawing the actual physical master (ph) of what's going to get implanted on the [silicon of the fab] (ph). There are tools for verifying that, you know, you have a high-level design language that tells you what logic you want. And then you have a bunch of transistors, and so there is a tool to compare the two and say, "Yes, you're actually — you're actually [slaps surface]..."
+THERAPIST: Yeah.
+CLIENT: "...Implemented what [slaps surface] the designers designed." And...
+THERAPIST: Yep.
+CLIENT: ...Um, and there's a tool for routing the metal wires, to make sure they don't cross over each other. And it is just a lot of tools. [Chuckles]
+THERAPIST: Yep.
+CLIENT: There are quite a lot of [chuckles] short steps in the process.
+THERAPIST: Yeah.
+CLIENT: And, um, [pauses] — and so I'm clumsy and I'm slow at using the tools. And a couple of times today — and this has happened before, but I was feeling particularly bad about it today - while we were doing a tutorial, Brian was, like, "Am I —" — the tutor's name is Brian... [00:03:10]
+THERAPIST: Yeah.
+CLIENT: ...And entirely [speaks softly] too many (ph).
+THERAPIST: [Chuckles]
+CLIENT: Sorry. Um...
+THERAPIST: I'm sorry we're overpopulating your life.
+CLIENT: [Chuckles] Um, he was — but there were a couple of points where he said, you know, "Do this," and I'd start having a command, and then I'd have to stop and look up the command in my notebook where I'd been taking notes.
+THERAPIST: Right.
+CLIENT: And then he'd be — and then he'd say, "Let me drive," and...
+THERAPIST: Yeah.
+CLIENT: ...Would ask for my board, and then he would just type the command. I feel really stupid that I'm not fast enough on the draw, on that. And then there's also the — I don't actually do design at the transistor level; I do design at the standard cell level, and each standard cell is a logic gate — an AND gate or a NOR gate, or an AND-OR with an inverter-3 input gate, or it is made of anywhere from, like, two to ten transistors. [00:04:05]
+THERAPIST: OK.
+CLIENT: Um, but there's — so there's a library of standard cells.
+THERAPIST: For the transistors aggregated to cells...
+CLIENT: Yeah.
+THERAPIST: ...Which then aggregate into something else?
+CLIENT: Yes. Um, but a lot of the cells are custom; they're not in, like — in school, you use a sort of, you know, UNIV inverter and an AND-OR-NOR-XOR.
+THERAPIST: Uh-huh, yeah.
+CLIENT: [Slaps surface] Ah, that's about it. [Chuckles] A couple of types of latches. But our standard cell library [slaps surface] has, like, 700 valves and...
+THERAPIST: Oh, my gosh.
+CLIENT: And some of them are, you know, a really, really fast AND gate, a slightly smaller AND gate with, you know, better hold properties, or, you know, an AND gate that's really, really slow but really, really tiny, or, you know...
+THERAPIST: Yeah.
+CLIENT: ...There's a variety of...
+THERAPIST: There are a bunch of parameters?
+CLIENT: Yeah.
+THERAPIST: Yeah. [00:04:56]
+CLIENT: Um, but I haven't figured out the naming scheme for the standard cells, so every time I want to make a change in the schematic, I have to go and spend 20 minutes looking at the list of 700 names and looking for things that...
+THERAPIST: Right.
+CLIENT: ...Look like they might be what I want, and then opening them up and...
+THERAPIST: Right.
+CLIENT: ...Looking at how they're made. [Chuckles]
+THERAPIST: Right.
+CLIENT: And that's just...
+THERAPIST: Well, that's too bad there's not a search tool where you can put in, sort of, the properties [more often like are that you put an app or something, and - ] (ph). OK, all right. Sorry.
+CLIENT: [Clucks] Um, that's all done by the naming scheme.
+THERAPIST: Oh.
+CLIENT: So anything that starts with an "I" is an inverter, and then — so you — you go to your list, and you start typing "I," and then you have all the ones that have "I." [Slaps surface] And then you want, uh, an inverter that can drive a huge Craftsman (ph), so you want to put a "**X4," so that'll give you everything that — of a 4X grad (ph) strength. And now you're down to, like, 70 you can just look at and choose from.
+THERAPIST: I see.
+CLIENT: There's no naming scheme [chuckles] to be able to do that. [Slaps surface]
+THERAPIST: Yeah. [00:05:58]
+CLIENT: Um, so my mentor reassures me that I will learn the naming scheme, but it is just — I feel so slow and stupid [becomes emotional], and...
+THERAPIST: Mm.
+CLIENT: ...[Sounds as if about to cry] I hate feeling slow and stupid. [Chuckles]
+THERAPIST: Of course.
+CLIENT: [Sighs]
+[Silence for six seconds]
+THERAPIST: Hmm. [Pauses for six seconds] Also, as far as last night, had you had any trouble sleeping like that lately?
+CLIENT: I always have trouble sleeping. Um, [pauses] you know, not being able to get to [slaps surface] sleep is not at all unusual. What's unusual is that Ambien didn't knock me out, um, because, usually, either Ambien or Trazodone, depending on [slaps surface] how early I remember to take it...
+THERAPIST: Mm-hmm.
+CLIENT: ...Um, Trazodone knocks me out better; it works better, but it will put me out for a good solid eight hours, and then I'll feel hungover for at least another hour or two. [00:07:06]
+THERAPIST: Right.
+CLIENT: So if I don't take it before nine o'clock, it is just, um...
+THERAPIST: Right.
+CLIENT: ...Ambien is a bit less disruptive... [chuckles]
+THERAPIST: Yeah.
+CLIENT: ...But it doesn't work as well. Um, but yeah, so insomnia is a thing. Ah, this was — this was pretty extreme, though.
+THERAPIST: I — I guess I'm wondering, just based on the content and time, whether, like, anxiety from coming here had anything to do with [pauses] it. But, I...
+CLIENT: Mm-maybe?
+THERAPIST: I mean, I don't especially have a reason for it [came in] (ph)
+CLIENT: [Sounds like ice clinking, as if taking a drink] I [clucks] mean, I don't have a reason to think that might be right or... [00:08:05]
+THERAPIST: Right, yeah.
+CLIENT: ...But [pauses] I mean, also, [pauses for nine seconds] — well, night before last, I also didn't get very good sleep. I got to bed late and then slept poorly.
+THERAPIST: Mm-hmm.
+CLIENT: And my neighbor started using her Weedwacker at 4:30 in the morning, Thursday morning.
+THERAPIST: No.
+CLIENT: So Thursday, I had a pretty terrible day at work because I was just struggling to stay focused. Um, I was really sleeping, really scattered, and, um, and was feeling kind of slow-moving and dumb all day. Um, [pauses] so I might have been anxious about having another bad day and then, of course... [Chuckles in exasperation]
+THERAPIST: Right.
+CLIENT: A vicious spiral.
+THERAPIST: Yes. [00:08:57]
+CLIENT: Um, no, it could have been the stuff we talked about yesterday I also blogged about and no one responded, so I was getting a little worked up about, you know, "I'm oversharing with my friends, and, you know, maybe they don't want to hear this crap. And I should only be positive on my blog, and I suck. And, yeah, I have a therapist for a reason; I don't need to, like, spew this all over the Web in addition to [chuckles] emotionally vomiting all this crap about my family [fidgets with something] in therapy."
+THERAPIST: Mm.
+CLIENT: And just — I don't know. So I was pretty upset about that, also.
+[Silence for 68 seconds, fidgets while sitting in silence]
+[00:10:00]
+CLIENT: [Clucks] [shifts in seat] I also spent a good chunk of yesterday being...
+THERAPIST: Uh-huh?
+CLIENT: ...Distracted at work by news about this very important decision on healthcare.
+THERAPIST: Mm-hmm.
+CLIENT: Um, yeah, I — I'm something of a political junkie, and...
+THERAPIST: Oh, I didn't know that. [00:10:57]
+CLIENT: Yeah, um — so, yeah, I was watching the decision. I had seen [an ad] (ph) open...
+THERAPIST: Mm-hmm.
+CLIENT: ...On one of my computer monitors. I have three monitors and [speaks softly] [so I quickly watch it] (ph).
+THERAPIST: Wow. Right?
+CLIENT: Yeah, [chuckles] I had seen it open on one of those...
+THERAPIST: Mm-hmm.
+CLIENT: Yeah, hitting "refresh" every ten minutes to... [Chuckles]
+THERAPIST: Mm-hmm. Yeah.
+CLIENT: Um, so — I don't know — I got worked up over the some of — of the discussion in the media about that, and...
+THERAPIST: Mm-hmm.
+[Silence for 37 seconds]
+[00:12:00]
+THERAPIST: Yeah, so I guess, in that way, there's a lot going on.
+CLIENT: Yeah. [Pauses] And, of course, once I wasn't able to sleep, the...
+THERAPIST: Oh.
+CLIENT: ...Continued inability to get to sleep just...
+THERAPIST: Sure.
+CLIENT: ...Caused the anxiety to build.
+THERAPIST: Yeah.
+CLIENT: Or anxious about not being able to sleep, and that makes it harder to sleep, and...
+THERAPIST: It makes you more anxious...
+CLIENT: Yes.
+THERAPIST: ...Sleep when you...
+CLIENT: [Sniffs] Um, yes. Yeah, it sucks. [Chuckles in exasperation]
+THERAPIST: Yeah.
+[Silence for 35 seconds]
+[00:13:00]
+THERAPIST: Yeah, I guess, um, [pauses for ten seconds] — I'm wondering if there is, like, uh, some fairly fundamental sort of security [says with inflection] that you're kind of very much in doubt of? Like, [pauses] you know, whether the job will basically work out or not...
+CLIENT: Hmm.
+THERAPIST: ...Or [pauses] whether [pauses] — I don't know. I don't think you constantly care (ph), like, to what degree the Country will go to hell in a hand basket. [Chuckles] [00:14:00]
+CLIENT: [Chuckles]
+THERAPIST: ...Or [chuckles] — or, [chuckles] um, your friends will just decide they've had enough of you, and they'll go away.
+CLIENT: Mm-hmm, right.
+THERAPIST: My sense is that the things that you're really [pauses] worried about have to do with those fundamental sorts of things...
+CLIENT: Mm-hmm.
+THERAPIST: ...Really. I don't know if there's something like that here, as well - like the bottom won't drop out somehow?
+CLIENT: "Here" being therapy?
+THERAPIST: Yes.
+CLIENT: Hmm. And if that's the case, what do we do about it? [Chuckles] [00:15:00]
+THERAPIST: [Chuckles] Um, [pauses] if — if what's the case? Like, [pauses] I'm not sure whether you're referring to be worried about the bottom dropping out in therapy...
+CLIENT: Yeah.
+THERAPIST: ...Or you're talking about this across the — OK.
+CLIENT: Yeah, yeah.
+THERAPIST: Well, I — um, what are you worried about happening - like, me getting mad or sick of you, you getting mad or sick of me?
+CLIENT: Yeah, either of the above could happen. Right?
+THERAPIST: I see.
+CLIENT: I mean, [pauses for six seconds] or it could just turn out to not be useful at helping me become less crazy.
+THERAPIST: I see.
+CLIENT: Uh...
+THERAPIST: Right. So there's...
+CLIENT: [Shifts in seat]
+THERAPIST: Um... [clears throat]
+[00:16:00]
+[Silence for 40 seconds]
+THERAPIST: Uh, [pauses for 23 seconds] [clucks] hmm. [00:17:00]
+[Silence for 19 seconds]
+THERAPIST: I guess, um, [pauses for nine seconds] one thing that strikes me about that is that, [pauses for five seconds] again, it — it is like [pauses] as though you find yourself — I mean, in here but really in something very different than what you've been in so far. Like, you know, [pauses] uhhh, you might decide at some point, like, this isn't as helpful as you want... [00:18:10]
+CLIENT: Mm-hmm.
+THERAPIST: ...Or the way that you want...
+CLIENT: Mm-hmm.
+THERAPIST: ...Um, or isn't making you less "crazy" quickly enough, or in a way that you feel is right. I mean, [door closes] [pauses] uh, 'cause the sense I get from how you describe it, though, is it is almost like, one day, the blinders are going to come off, and you're just going to see this has been [emphasizes] totally useless, a total waste of time; you're at least as "crazy" as you were before...
+CLIENT: [Chuckles]
+THERAPIST: ...And nothing of any value has happened. And I guess that's what I mean by finding yourself in kind of a very different scenario than you felt like you're in thus far.
+CLIENT: [Faintly] Right.
+THERAPIST: I don't mean that you would have problems with this or be disappointed, or decide that something is going to help; you know, like, that's not what I'm talking about. [00:19:01]
+CLIENT: Oh, OK, OK.
+THERAPIST: You know...
+CLIENT: No.
+THERAPIST: Those things could happen. [Mumbles] Mm, I don't know. I guess what's striking to me is kind of the, uh, [pauses for five seconds] almost - sort of like dissociatively different...
+CLIENT: Mm-hmm.
+THERAPIST: ...Experience that I think you [pauses] worry could come to pass, where, in some sense, [door closes elsewhere] either, like, you're not really you the way you've been, and I'm not really me the way I've been, or this whole endeavor is...
+CLIENT: Right.
+THERAPIST: ...Something resembling what has been really [pauses for 12 seconds] — again, I'm not saying, in the course of therapy, that, like, you might not get mad at me or be disappointed, or any number of other things... [00:20:07]
+CLIENT: Mm-hmm.
+THERAPIST: ...Like, or just get sick of me [clears throat, chuckles] or decide I'm useless.
+CLIENT: [Chuckles]
+THERAPIST: Fine. I — I — it is just, um, [pauses] yeah, it reminds — it makes me think or reminds me of, like, almost a thing a bit more, like, um, dissociative, that, like, you worry your experience of this or of me, or what happened between us would feel just [pauses] so sharply different...
+CLIENT: Mm-hmm.
+THERAPIST: ...In a very extreme way.
+[Silence for eight seconds]
+[00:21:00]
+CLIENT: [Sighs]
+[Silence for nine seconds]
+CLIENT: You — [pauses] I can't say it is not a concern because it is exactly what happened with, um, my previous therapist.
+THERAPIST: Oh.
+CLIENT: So I thought we had a pretty good working doctor-patient relationship.
+THERAPIST: Yeah?
+CLIENT: And she really helped me a lot...
+THERAPIST: Uh-huh.
+CLIENT: ...In the beginning. Um, but there was this whole bundle of things that we just never talked about because it never came up, because it wasn't causing problems for me, i.e. my sex and romantic life. And once it did come up, it was, "Holy shit! There's, like, this fundamentally divergent viewpoint in how these things work, that is making me profoundly uncomfortable, and, I can't handle this." And, I mean, that — that could happen. Um, you know, especially not to, like, put too fine a point on it, but you're a white dude, and I'm... [00:22:02]
+THERAPIST: I am, yeah.
+CLIENT: ...A woman of color, and...
+THERAPIST: Absolutely.
+CLIENT: ...There's a [big pile of mountains] (ph) there.
+THERAPIST: Sure.
+CLIENT: And, um, I mean, you seem to be cognizant of that so far, but, you know, who knows what monsters lurk beneath the waters. [I doubt, hardly, you'll approve of that analogy] (ph).
+THERAPIST: [Chuckles]
+CLIENT: I'm sorry, but... [Chuckles]
+THERAPIST: Well, but it is true to the intensity, as are both your worries and, I think also, I'm sure, many experiences you've had.
+CLIENT: Mm-hmm.
+THERAPIST: I mean, with white dudes among other people. Yeah.
+CLIENT: Yeah.
+THERAPIST: Um, [pauses] yeah, I mean, my — I don't think it is [as you go, but] (ph), but my demographic doesn't have a great track record in this [chuckles] sort of thing. Um, [pauses] yeah. And [pauses for nine seconds]... [00:23:04]
+CLIENT: I mean, I was even hesitant to say that because — I don't know — hard talking about these things.
+THERAPIST: Sure. Um, [pauses for eight seconds] like, were you worried about offending me by saying it, or that it would somehow bring about what you're worried about?
+CLIENT: [Sighs] Not so much offending, because I don't think I said anything offensive, but...
+THERAPIST: Mm-hmm.
+CLIENT: ...But provoking of defensive reaction.
+THERAPIST: Sure, sure.
+CLIENT: Um, yeah.
+THERAPIST: Yeah, I think that's, uh...
+CLIENT: And not that you've given me any reason to think you would react defensively to that... [00:24:02]
+THERAPIST: What? Oh, no.
+CLIENT: ...But [that was, like] (ph)...
+THERAPIST: [Exhales] Yeah.
+CLIENT: Having had lots of experiences in my past with men who get really defensive when women start talking about sexism (ph) in the world even when it is not in a personal context. But — I don't know — defensiveness is — is a pretty common reaction.
+THERAPIST: Sure. Yeah, I would imagine with issues of, like, racism (ph), they say, "Well..."
+CLIENT: [Barely audible] Yep.
+[Silence for 12 seconds]
+THERAPIST: Yeah. [Silence for 15 seconds]
+CLIENT: [Shifts in seat] [00:25:00]
+[Silence for eight seconds]
+THERAPIST: Yeah, and I'm going to talk to some of that, but, [in a way] (ph), it must have been quite something when Chrissy [pauses] responded so [inflects] differently...
+CLIENT: [Whispers] Yeah.
+THERAPIST: ...Around that stuff. I guess that my sense is — is like, uh, she brought her values into it and was more prescriptive...
+CLIENT: Yep.
+THERAPIST: ...In a way that she wasn't [inaudible at 25:43]...
+[Crosstalk]
+CLIENT: She didn't just bring her values into it; she brought her personal history into it.
+THERAPIST: Oh?
+CLIENT: And overshared quite a bit about her youth, um, which I though was — she overshared about her family on a number of occasions...
+THERAPIST: Huh.
+CLIENT: ...Which was always on the borderline of what I thought was appropriate. [00:26:01]
+THERAPIST: Uh-huh.
+CLIENT: Um, I mean, for example, I knew that her daughter hates the fact that she uses paper towels because her daughter's a rabid environmentalist. [Slaps surface] Like, why — why does your patient need to know that? And, on the other hand, it wasn't really detrimental...
+THERAPIST: Right.
+CLIENT: ...So, like, I let it slide.
+THERAPIST: Right.
+CLIENT: Um, but, you know, apparently, she and a number of her friends had very bad experiences with misogynist men, who used polyamory (ph) as an excuse to be misogynist and womanizing.
+THERAPIST: Uh-huh.
+CLIENT: And, um, [pauses] [chuckles in exasperation] she wasn't able to step away from those experiences and...
+THERAPIST: Right.
+CLIENT: ...In fact, told me about some of those experiences and how, you know, polyamory is universally harmful, and everyone always ends up getting hurt, and there is no way to do it ethically, and [chuckles in exasperation] it was just — [chuckles] eh, jaw-dropping.
+THERAPIST: I bet.
+CLIENT: Um...
+THERAPIST: And I assume, for what you said about other things, she just wasn't that [inflects] way. [00:27:00]
+CLIENT: Well, I mean, like I said, you know, she...
+THERAPIST: But it was oversharing.
+CLIENT: Yeah.
+THERAPIST: But, [pauses] um...
+CLIENT: I mean, I guess, in hindsight, I can see, like, not red flags but maybe...
+THERAPIST: Uh-huh?
+CLIENT: ...You know, what's a level below red flags - yellow flags, maybe?
+THERAPIST: [Chuckles] Sure.
+CLIENT: [Chuckles] Um, you know, one of the things that I've struggled with a lot — and it is better now — is feeling guilty over every decision I make and whether it is, you know, the — a morally valid decision in the — my framework of...
+THERAPIST: Mm-hmm?
+CLIENT: ...Um — as if [clucks] they're influenced both by, you know, the history of feminist thought and also by my faith, and, sometimes, those things clash in trying to navigate that. And, um — I mean, I — I was tied up in knots, in angst for months over whether it would be justified for me to hire a housekeeper. [00:28:00]
+THERAPIST: Mm-hmm?
+CLIENT: Like, was that participating in an oppressive system?
+THERAPIST: Mm-hmm.
+CLIENT: And, I mean, [sighs] — and, in part, because of Chrissy's help, I'm able to just make decisions now and say that, you know, "I'm going to trust that I am able to make good decisions on relatively minor questions." Um, but, you know, a lot of that stuff — she would say, "Well, you know, you and I have the same feminist values," or, you know, "I was raised as a - " — um, Chrissy would say she was raised as a, you know, strongly progressive, Marxist feminist, and so she understands the values — the social values I try to live out. And, you know, she would make these references to values her parents raised her with and...
+THERAPIST: I see.
+CLIENT: I mean, I guess as long as our values were aligned, that wasn't a problem, but...
+THERAPIST: Uh-huh.
+CLIENT: [Sighs]
+THERAPIST: Did you feel like [pauses] she was accurate in, [pauses] um, characterizing your values as similar around feminism and [good things] (ph)? [00:29:15]
+CLIENT: On the topics we were discussing — yes.
+THERAPIST: Uh-huh. [Pauses] But she wouldn't say, "You might have this in common," in the way that you actually didn't? On the things that you discussed, anyway...
+CLIENT: No.
+THERAPIST: ...You kind of — you did?
+CLIENT: Yeah.
+THERAPIST: Yeah, and it worked.
+CLIENT: Yes.
+THERAPIST: Yeah. That's good, I mean, that it worked.
+CLIENT: [Snorts] [Chuckles]
+THERAPIST: Hmm.
+[Silence for 12 seconds]
+CLIENT: [Shifts in seat]
+THERAPIST: Sure, and I'm [an influence] (ph). Um, how long — remind me again — you told me this, but how long did you work with her? [00:30:04]
+CLIENT: [Sighs] Almost three years.
+THERAPIST: [Whispers] Oh.
+CLIENT: Yeah. [shifts in seat]
+THERAPIST: And when did the polyamory stuff come up? Like...
+CLIENT: [Sighs] Theoretically, Dave and I opened discussions up two years — two-ish years ago, give or take a month or two. Um, but it was all theoretical while we were still...
+THERAPIST: Sorry, I meant with Chrissy. Like...
+CLIENT: Oh, um, well, I mean, I had mentioned to her that we had opened up these discussions...
+THERAPIST: Right.
+CLIENT: ...And she said, "You know, I'd strongly counsel you against this. I don't think it is a good idea."
+THERAPIST: Uh-huh.
+CLIENT: But then she dropped it because I was still discussing things with Dave, and it was all still theoretical.
+THERAPIST: I see.
+CLIENT: And then I started dating [Trish and Mark] (ph) last May and started mentioning them in therapy... [00:31:01]
+THERAPIST: Mm-hmm.
+CLIENT: ...And mentioning some of my own, you know, insecurities around, you know, do they really care about me, or are they...
+THERAPIST: Right.
+CLIENT: ...Just with [slaps surface] me because I was convenient [, different than the others] (ph).
+THERAPIST: Right.
+CLIENT: A whole mess of insecurities I wanted to talk about, and that's when, um, she started being much more judgmental. And — let's see — what was it? When did that happen? [Pauses] I don't know. So I guess last spring — not this past spring, but the spring of 2011, before I started dating [Trish and Mark] (ph), um, [slaps surface] [pauses] I had been pursuing someone who'd been rejected and was kind of depressed about that, and had mentioned that, and that's when she made the comment that, you know — paraphrase it as, "You fuck like a man," when what she actually said was, you know, "You approach sex and relationships in a really masculine way. Maybe we should talk about that because you're, like, supposed to have love and intimacy, and, you know, relationships just for the purpose of sex is not healthy." And just...[slaps surface] [00:32:15]
+THERAPIST: Whoa.
+CLIENT: The fact that she...
+THERAPIST: That's throwing down some values right there.
+CLIENT: [The gender essentialoo?] (ph)
+THERAPIST: [Chuckles] Yeah.
+CLIENT: And the — you know, it is wrong to not behave in stereotypically feminine ways.
+THERAPIST: Right.
+CLIENT: And then there's the whole thing about, you know, does sex have to always be in the context of a long-term, monogamous relationship to be ethical? To which I think the answer is "no." I think short-term sexual relationships can be ethical. You have to be careful about it, obviously...
+THERAPIST: Mm-hmm.
+CLIENT: ...But I don't see [slaps surface] anything inherently wrong with them.
+THERAPIST: Mm-hmm.
+CLIENT: Um, so there was just way — [chuckles]...
+THERAPIST: Right.
+CLIENT: Um...
+THERAPIST: Right, a raft of issues.
+CLIENT: A raft of issues. And I was [emphasizes] really, really upset and didn't know how to bring it up because she had been so helpful up until that point. [00:33:06]
+THERAPIST: Right.
+CLIENT: And I was in the middle of, you know, dealing with a crisis with my former advisor, who did not end up being my thesis advisor. Um, and I just — I couldn't bring myself to even think about looking for a new provider at that point.
+THERAPIST: Right.
+CLIENT: Um, because someone up to speed with all the backstories about my academic background...
+THERAPIST: Sure.
+CLIENT: ...Was just — the idea was daunting.
+THERAPIST: Yeah.
+CLIENT: Um, so I just told myself, "I'm just never going to mention sex or relationships at all in therapy." Like, "Done. No, we're not going to —" — um, but then I started dating [Trish and Mark] (ph), and there was stuff I wanted to hash out.
+THERAPIST: Somehow, sex and relationships can [chuckles] [affect your life and be an important issue] (ph).
+CLIENT: [Laughs] Right, right.
+THERAPIST: Who would have thought? Yeah.
+CLIENT: [Chuckles] Um, [pauses] yeah.
+THERAPIST: No, I...
+CLIENT: ...And things just got... [00:34:00]
+THERAPIST: Yeah.
+CLIENT: ...Progressively worse. And then the last straw was, um [pauses] — I was talking about a recurring problem — and I think I've talked to you about the — I hate not — looking like I don't know what I'm doing even in situations where there is no reason I should know what I'm doing. Like, learning a new language — there's no reason I should know how to program in this language because it is new to me, or — and I use as an example a friend of mine invited me to go line dancing...
+THERAPIST: Mm-hmm?
+CLIENT: ...Which is — line dancing is a — a style of dance where there's a caller, who calls out the steps, kind of like square-dance in that regard.
+THERAPIST: Mm-hmm.
+CLIENT: And so you just memorize the steps that go with each name, and then the caller calls out the steps. And the dance involves, like, ten to 20 couples...
+THERAPIST: Mm-hmm.
+CLIENT: ...Interweaving through each other, and it is a very complex geometric pattern. And I didn't know the steps. I just felt really [slaps surface] insecure about going, even though this particular dance says "Beginners Welcome"... [00:35:02]
+THERAPIST: Right.
+CLIENT: ...And pairs beginners up with experienced dancers [who have you] (ph).
+THERAPIST: Yeah.
+CLIENT: And she made this comment about how her cousin does line dancing and he's half Cuban, and maybe I'd like to get together with him the next time he visits her because I'm — I'm — I can't remember what she said, but the way that I heard it was, "Because you're such a slut," which is not — those are not the words she said...
+THERAPIST: Right.
+CLIENT: ...But it was definitely the impression that I got. And I was just, like, "That is so inappropriate." And, yeah, that was the last time I saw her. I was just so furious.
+THERAPIST: And it is done?
+CLIENT: Yeah, it is done.
+THERAPIST: Hmm. [Sighs]
+[Silence for eight seconds]
+[00:35:54]
+CLIENT: And, I mean, just to be clear, I guess [pauses] there's a tiny bit of validity in saying that I approach relationships like a man if you look strictly at external behaviors and statistical descriptions. I tend to be the pursuer more than the pursued, and far more sexually dominant, which is not — I mean, if you look at large samples of men and women, that's an outlier of it. [Slaps surface] I mean, these are [inaudible at 36:29] (ph); they're not <i>mmmmm</i>. [Slaps surface].
+THERAPIST: Sure.
+CLIENT: [Slaps surface] I mean, I guess, like, [sighs] [pauses for five seconds] as a judgment-neutral description, that's — you know, there's maybe a little bit of validity to that, [shifts in seat] but she was definitely being judgmental about it and framing it as a thing that I needed treatment for, which is not...
+THERAPIST: ...True.
+CLIENT: [Sighs in exasperation]
+THERAPIST: Judging and pathologizing — it felt like that.
+CLIENT: Yeah. [00:36:57]
+[Silence for 17 seconds]
+THERAPIST: And, um, yeah [pauses for 30 seconds] — um, did you guys talk much about — it seems like it was very difficult to — I am wondering, did you talk much with her about, like, um, [pauses for five seconds] — uhhh, [pauses] what you thought that she was being? [00:38:07]
+CLIENT: [Faintly] No.
+[Silence for nine seconds]
+THERAPIST: I'm not saying it was necessarily your responsibility to, but [pauses] what made it difficult?
+CLIENT: [Faintly sighs] [pauses for eight seconds] [sighs]...
+THERAPIST: Basically, are — like, I'm not saying you should have done something different.
+CLIENT: Sure, sure.
+THERAPIST: I guess I have this sense, from how you've described it, that you at least had some inclination towards saying something about some of this to her, but that it was hard. In other words...
+CLIENT: Right.
+THERAPIST: ...Um, yeah, so that's why I'm asking. [00:39:00]
+CLIENT: So why was it hard? That's a good question. I couldn't put it into words, to myself, even...
+THERAPIST: Yeah.
+CLIENT: ...So it might take me a while to...
+THERAPIST: Yeah.
+CLIENT: ...To work out how to say it. But [sighs] [slaps surface] [pauses for eight seconds] part of it was [pauses] that I didn't want to be put in the role of educating her, of saying, you know, "What you just said was, you know, very [slaps surface] — was privileged in 'such-and-such' ways, in the sense of class privilege, white privilege."
+THERAPIST: Yeah.
+CLIENT: Yeah.
+THERAPIST: Like, [inaudible at 39:46] privilege.
+CLIENT: Um, yeah. Um, and — and then there's a sort of power relationship between a — a doctor and a patient, and, [pauses] you know, being judgmental from that possession of power can be very damaging. [00:40:02]
+And, I mean, God knows how I would have reacted ten years ago, when I was still, like, completely cowered by shame for, you know, being dominant and bad when, you know, I'd been raised with all these messages about how women are supposed to be [making decisions] (ph), especially Asian women. And, like, [chuckles] I'm at a point now where, like, I — I have dealt with all of my issues around sexual identity, and what [I tell] (ph), um, but...
+THERAPIST: Right, it was one thing to hear it. You know, you are more adult and [tempered it] (ph) when you were younger.
+CLIENT: Right, I mean...
+THERAPIST: So, yeah.
+CLIENT: Um, so I just — I didn't [sighs] — I didn't want to have to take on the role of educating her. Um, I felt like that might — almost certainly would have happened, or more [sighs] — I couldn't think of any way to frame the conversation except in terms of, you know, explaining to her the impact of what she said, and I didn't want — that was just [pauses] too much for me. Um, [pauses] I think part of it was... [00:41:20]
+THERAPIST: Sorry. Can you [any part of the] (ph) the conversation that didn't necessarily impact what she said [on you, OK] (ph)...
+CLIENT: Mm-hmm.
+THERAPIST: ...And it was too much to [pauses] — too much of a way, like, for you too vulnerable a position?
+CLIENT: [Sighs] No, I think it — well, I mean, there was that, but the — that's kind of orthogonal to my [sighs] — mm — [pauses] [inhales] — I really resent hhh-having to educate people about power and privilege. And it was especially because that's a rule I've consciously taken on for myself at church, of being, like, "I will be your educator." And it sucks, and I hate it that I — I do powerfully feel like this is what I'm being called to do. [00:42:20]
+THERAPIST: Mm-hmm?
+CLIENT: Um, but I don't want to have [chuckles in exasperation] to do it elsewhere. Um, it is easier to just walk away, because I — I feel like, you know, someone who has 30 years' experience in this field should have educated herself already.
+THERAPIST: Mm-hmm.
+CLIENT: Um, and — and part of it was the vulnerability. But, [pauses] [sighs] [pauses for five seconds] I mean, before all of this started happening, I really liked her a lot, um, and I didn't want to make her angry, um, and I didn't want her to be disappointed in me. [00:43:04]
+[Clucks] Um, which, [exhales] in hindsight, I'm glad I kind of smacked (ph) myself in saying that. Eh, but — I mean, that was — that was the month that I was in, and, um, [pauses] [faintly] yeah. I think — I think that's it; I'm not sure. I might be missing stuff. Like I said, I haven't really thought about that question before, so...
+THERAPIST: Yeah.
+CLIENT: ...So that — that - that's somewhere to start.
+THERAPIST: Yeah.
+[Silence for 15 seconds]
+CLIENT: But, I mean, it also made me [pauses] — it felt a little bit galling, but, you know, I'm coming to this person for help that I need, [shifts in seat]... [00:44:01]
+THERAPIST: Mm-hmm?
+CLIENT: ...And instead of providing help, she provides anti-help.
+THERAPIST: Mm-hmm.
+CLIENT: And so not only do I have to — have I wasted however many therapy sessions getting anti-help instead of help...
+THERAPIST: Mm-hmm.
+CLIENT: ...But I've also spent so much emotional energy afterwards, processing what happened, I...
+THERAPIST: Mm-hmm. Right.
+CLIENT: ...Like, writing about it in my personal diary and on my blog, and...
+THERAPIST: Right.
+CLIENT: ...Talking to trusted friends about it, and just sitting around in my head, and, you know, questioning, "Maybe there [inflects] <i>is</i> something wrong with me. Maybe I [inflects] <i>am</i> too cavalier about relationships.
+THERAPIST: Mm-hmm.
+CLIENT: And, I mean, I decided that I'm not, but...
+THERAPIST: Right, certainly not.
+CLIENT: ...Still — but not only have all of that time and energy of mine been consumed, but to consume more time and energy arguing with her about it? And I certainly expected her to be defensive if I had brought it up...
+THERAPIST: Mm-hmm. [00:44:58]
+CLIENT: ...And I guess I didn't give her a chance to demonstrate whether she would be defensive or not. But it was certainly like the most likely outcome that I could see then, and I still think that if I had brought it up, the most likely outcome would have been...
+THERAPIST: Yeah.
+CLIENT: ...Defensiveness and perhaps an attempt to convince me that I was wrong, and that's just — I didn't want to...
+THERAPIST: Yeah.
+CLIENT: ...Burn any more resources.
+THERAPIST: Yeah. We can stop.
+CLIENT: Yep.
+THERAPIST: All right, we'll talk later.
+CLIENT: [Gets up from seat]
+[Door opens]
+END TRANSCRIPT

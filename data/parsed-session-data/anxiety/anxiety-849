@@ -1,0 +1,151 @@
+TRANSCRIPT OF AUDIO FILE:
+______________________________________________________________________________
+BEGIN TRANSCRIPT:
+THERAPIST: What's going on? 
+CLIENT: A variety of things. So I'm kind of juggling a couple of different things at work. I own three tiles and they're each in various states of disarray, and they each need to be cleaned up by the end of October. I mean they're all the same kind of tile, and they all need to be in the same kind of final state, but they all have different problems so doing different tasks on each one even though I can do any task on any tile if it needed it. But anyway on one of my tiles today I was doing SKU timing fixes, which I don't think it would be enlightening to discuss what SKU timing is, but the point is that I was running this tool called Run PCTEL and looking at a database called a PT session which is normal for doing timing fixes. In particular for SKU timing I needed to have two of these databases open at the same time because I needed to compare—it was kind of a main SKU—I needed to compare the SKU'd (sp?) with the unSKU'd (sp?) version and they were in separate databases. [00:01:28]
+Anyway I got this nasty e-mail that was full of all caps and exclamation points saying that I was killing the server for everyone and to stop my jobs right now or this guy would kill them for me. 
+THERAPIST: Oh my goodness.
+CLIENT: And I didn't see this e-mail because at the time it was sent another coworker was in my cubicle walking me through a problem on a different tile of mine. So Jamie who is in charge of all the errors for my entire group came over to my cub and said you need to (inaudible at 00:02:02). I was like I thought I was. And he was like nope an error popped up on the last round. Let's look at it together because as far as I know you've never done LDS. I did it before and I was like you are correct. I have never done this. [00:02:13]
+We were working on this LDS problem on a completely different tile at the time when Pat sent his e-mail. So 20 minutes later my manager comes in and says did you respond to Pat's e-mail. I was like Pat e-mailed me? I didn't know that. And then my manager was like, of course, you didn't because someone's in your cubicle talking to you. Pat said you need to kill your PT sessions because they're killing the machine for everyone. And then I felt really terrible because I was hogging research and limiting stuff for everyone. Then Chris says next time just desub (sp?) it to LSF and I was like...
+THERAPIST: Who is Chris?
+CLIENT: My manager. 
+THERAPIST: (inaudible at 00:02:54).
+CLIENT: So I was like...
+THERAPIST: So he tells use some other way to...
+CLIENT: Yeah. I said desub (sp?) to LSF I didn't know I could do that. I thought that everything that you run in this tile builder terminal—and this is going to make no sense to you I'm sorry... The point is I thought that the job was under the covers of whatever command I typed into my terminal window. I thought that it was wrapped in some kind of wrapper that would send it into LSF which obviously it didn't. LSF is wood sharing. [00:03:29]
+THERAPIST: So the point being that had it worked the way you imagined it wouldn't have...
+CLIENT: It would've been (inaudible at 00:03:37).
+THERAPIST: Yeah.
+CLIENT: If it had worked the way I thought it did it would've gone off to a server farm with 2000 CPU's, and I would've gotten a dedicated slot to work. It wouldn't have impacted anyone else. Chris was like nope it doesn't work that way. And then I felt really guilty and terrible even though I had no way of knowing that I was consuming resources on a shared machine. [00:04:03]
+And then for the next 30 minutes beating myself up instead of doing anything productive and it was terrible. (Pause) And then I told myself I needed to get over it because I had work that needed to get done today. 
+THERAPIST: And did you?
+CLIENT: I kind of imagined putting it in a box to be dealt with later. Not in the sense that I was no longer feeling guilty but I wasn't going to let it infer with...
+THERAPIST: You compartmentalized.
+CLIENT: Uh huh. (Pause) But now that I'm not at work I'm feeling guilty again. 
+THERAPIST: You unboxed it. 
+CLIENT: Yeah. And I kind of feel resentful at myself for feeling guilty and resentful at kind of nebulous the job or the company for not having fucking documented any of this because what I was told by my mentor was you have your regular terminal window and then you have a special terminal called a tile builder terminal. And anything you run in tile builder gets sent to LSF. It's like well I was running PCTEL in a tile builder terminal... [00:05:23]
+THERAPIST: Is that a load sharing server file LSF?
+CLIENT: Yeah. So I had a tile builder terminal and I ran PCTEL from my tile builder terminal so I thought because I was in the special terminal that it would send everything to LSF instead of running locally but apparently not. Apparently only commands that start with TB go off to LSF because that makes so much sense. 
+THERAPIST: Actually yes.
+CLIENT: And PCTEL starts with a P not a T so...
+THERAPIST: Yeah. (Pause) Right so first you get really mad at yourself and feel really guilty. [00:06:27]
+CLIENT: Uh huh.
+THERAPIST: And then you get mad kind of at work.
+CLIENT: Yes for making me feel guilty because it wasn't my fault. If I do it again it'll be my fault.
+THERAPIST: Sure. Sure. 
+CLIENT: I mean I guess on the bright side there have been a couple of times this week where I didn't know how to do something and instead of digging through the documentation and wasting time for a couple of hours I just went straight to a coworker and asked for help. [00:07:08]
+THERAPIST: Oh that's terrific. 
+CLIENT: It's hard. Probably stupid after a couple of them, but (pause) I now have four people who are in kind of supervisory roles relative to me. There's my manager Chris, and my mentor, and then there's the technical lead of the project that I'm helping out on...
+THERAPIST: Is that the (inaudible at 00:07:40)?
+CLIENT: No. Something entirely different. So Chris is both the manager and the technical lead for a component called DID but DID is overstaffed. And there's another component called the CU that was understaffed. And a guy who is this technical leader of CU. [00:08:00]
+So he isn't my manager in that he doesn't approve my vacation, he doesn't do my weekly meetings, he doesn't do my reviews, but he is responsible for the technical end of the project that I'm working on so he gets to direct my work time in respect to the CU. And then there's Jamie who owned my tile before I did so he knows what's going on. He also has like 15 years seniority. He's been kind of supervising the nitty-gritty of my work, but he doesn't have time to because he's supervising six people. (inaudible at 00:08:45). 
+THERAPIST: Right. (Pause) And it was Pat who wrote you the e-mail with all caps. Now I'm curious do you know or did you find out whether he was actually angry? [00:09:13]
+CLIENT: I have no idea. 
+THERAPIST: As opposed to just kind of trying to get your attention?
+CLIENT: Maybe. I've never even met him in person. 
+THERAPIST: (inaudible at 00:09:27) e-mail.
+CLIENT: I don't even know if he works in the office or if he works down in Texas. I can find out I guess but it's not that important. But he's kind of responsible for the computing resources that all the teams use.
+THERAPIST: I see.
+CLIENT: (Pause) So it was super (inaudible at 00:09:51). (Pause) 
+THERAPIST: So you felt so guilty because you felt like you were messing things up for everybody else more so than because you felt like you were getting yelled at? [00:10:26]
+CLIENT: A little of both.
+THERAPIST: Both. 
+CLIENT: Yeah. (Pause) I was talking to Brian yesterday on something completely unrelated and he mentioned that when he was in Silicon Valley working for [inaudible] forever that people tended to only stay at a company for around 14 months was the average before they moved. He was kind of ranting about how that's utterly ridiculous because any high tech company the first six months someone is on the job they add no value to their group. That was a little bit reassuring because he wasn't talking about my performance he was making a general statement in a sense. I don't feel as bad that I don't really kind of contribute all that much. (Pause) It still feels pretty crappy to screw something up that effects other people regardless of whether they're expecting and prepared for the new hire to stumble around a bit. [00:11:59]
+(Pause) 
+THERAPIST: Totally. I mean I think it's somewhat expected to feel bad I guess. To me it's like the intensity of the way they shut you down kind of how awful it feels and how hard it makes it to work for a while but I guess this wasn't the problem. [00:12:42]
+CLIENT: Uh huh. (Pause) 
+THERAPIST: (inaudible at 00:13:08). (Pause)
+CLIENT: Nothing. I'm drawing a blank. (Pause) This must feel like when you're in pulling teeth to get me to talk about anything at all ever. [00:13:46]
+THERAPIST: Sure. (Pause) Know what I was wondering just there is whether what I had said sort of may have contributed to your thoughts about things like well the problem is this. Your problem is this. Oh, I'm not really thinking of anything right now. I wondered about that. [00:14:34]
+CLIENT: I don't think so at least not consciously. (Pause) 
+THERAPIST: Is there any more to the thought of like being difficult here or difficult for me in that way? 
+CLIENT: No. I'm just kind of (inaudible at 00:15:07). (Pause till [00:16:46)
+THERAPIST: Do you worry that you make just difficult (inaudible at 00:16:52)?
+CLIENT: Sometimes yeah. [00:16:53]
+(Pause) 
+THERAPIST: Do you remember any time in particular?
+CLIENT: No. It all kind of blurs together, but the general shape of my worry is that... I guess there's two general shapes that recur. One is that he'll decide that there is actually nothing to do with me if I can't cooperate and thus you'll fire me as your patient. I've heard that happening. I don't actually know anyone who that's happened to. And then the other general kind of shape of thoughts that keep recurring is that what is it in my head that wants to kind of stop me from being productive in these sessions which theoretically, at least, they're supposed to make me better and happier right. And so if I'm having trouble engaging then what is it in my psyche that doesn't want to be better, and happier, and less depressed? Does that make sense? [00:18:12]
+THERAPIST: Yeah. A lot of times (pause) Well it often seems like it can be harder to talk if you're feeling more shut down and frustrated or maybe even bad. [00:19:19]
+(Pause) 
+CLIENT: I can't remember but maybe you have some sense of did I get quiet and shut down as frequently before I started the new job like when I wasn't coming from an hour in the car? 
+THERAPIST: I think so yeah. I don't think that increases the job we were talking about (inaudible at 00:19:59). 
+CLIENT: Uh huh. [00:20:02] 
+(Pause) 
+THERAPIST: I guess I'd also imagine kind of simply that a lot of these things just feel good to talk about. 
+CLIENT: No. (Pause) But if there was nothing in my life that felt icky to talk about I wouldn't need to be here now would I? [00:21:08]
+THERAPIST: You're right. (Pause)
+CLIENT: I realized yesterday that I haven't spoken to parents since they came to visit. And surprisingly I've not had a lot of horrible bouts of self loathing around things that they don't approve of. Even though when I talk to them on the phone they rarely explicitly talk about how disappointed they are that I didn't get the PhD or blah, blah, blah, whatever just speaking to them just brings horrible, horrible negative self talk about being a loser for not getting a PhD, or not being ambitious enough, not being successful enough however that's defined, etcetera. On the other hand conversations with them always start off plenty of fodder. (Laughter) [00:22:26]
+THERAPIST: Well maybe that is sort of indicative as well that sometimes it's easier to talk when you're feeling immediately worse about something, really in the throws of it, whereas to kind of bring something up or to get into something when you're otherwise feeling okay. Do you feel like it's important to talk about unpleasant things here? I mean are there some things either good, or are they trivial, same thing, or whatever came to mind that you gave (inaudible at 00:23:08)?
+CLIENT: (Pause) I don't know. If I had multiple things on my mind I'd probably pick the least pleasant to talk about just because that's where the work is, but (pause) I guess because stuff rarely comes to mind when I'm trying to think. [00:23:45]
+THERAPIST: Does it seemingly unimportant stuff come to mind? 
+CLIENT: Yeah sometimes. But I don't know... I don't know. It's ridiculous to talk about things like running around drawing a blank. I can't think of anything. (Pause) I don't know. Sorry. [00:24:37]
+(Pause) Halloween party, my company is hosting an in-office Halloween party and trick or treating for employees kids. We've all been instructed to bring costumes and decorate our cubes and bring candy. And I think it's ridiculous, and I don't like children even under the best of circumstances and will probably work from home that day just to avoid the mess. Corporate over largely doing something I find annoying, news at 11:00. [00:25:13]
+THERAPIST: (Laughter) (Pause) What about the kids in the first place?
+CLIENT: Yeah like we're being told to take time out of our workday when we have a pretty hard deadline coming up at the end of October like hand out candy to a bunch of kids whose parents are all at a high enough socioeconomic level to take them out trick or treating in the burbs or whatever it is that parents do with their kids on Halloween. I don't like Halloween to begin with (laughter), and I definitely don't like school children. And it's just all a mass of annoyance in the middle of time that I want to be working so I can meet my deadlines. [00:26:22]
+THERAPIST: Right. (Pause) And it's also being imposed on you without any input.
+CLIENT: Right. I mean I've had other jobs before where there were holiday parties and Halloween crap but it was always confined. So it was things like we'll have a day set up the cafeteria and each group got a table to hand out candy to the kids and the kids went trick or treating around the cafeteria. And if you wanted to participate you could join the people from your group who were at their table, and if you didn't you stayed in your office and got work done. I think that was an imminently reasonable compromise. They're telling us we have to decorate our cubicles for the coworkers children. [00:27:24]
+(Pause) 
+I feel like I'm just being ranty for the sake of venting when that's really—I don't know—not the purpose of me coming here. I mean I kind of feel like that's a average sort of complaint that everyone has about their workplace. Like random things that are irritating that you just (pause) have to deal with because it's at your workplace right. Like there's nothing particularly—I don't know—psychologically interesting about being annoyed right? [00:28:28]
+THERAPIST: (Pause) There could be a number of things connected to that. I mean I don't know. It's really hard to tell where you're going to end up two or three conversations down the road. 
+CLIENT: Uh huh. I just...
+THERAPIST: Go ahead.
+CLIENT: I don't want to get sucked into the trap of kind of spiraling around and around something that started out as a pretty minor annoyance, and then getting all worked up, and coming up with more and more reasons to be evermore annoyed at the same kind of minor irritant. [00:29:29]
+THERAPIST: I see a little like you'd be kind of killing the space or killing the time here with being annoyed.
+CLIENT: Yep. 
+THERAPIST: When you otherwise wouldn't particularly have anything to say?
+CLIENT: Right. (Pause) 
+THERAPIST: I guess I wonder at your family a little bit in particular (pause) your relationship with your dad but I don't know. Were there times that those were the only two options being annoyed, or angry, or critical or nothing? I mean... [00:30:55]
+CLIENT: Yeah. I mean this is... I mean behavior I guess is starting out with a really minor irritant and just building, and building, and building on it. That's something both my parents do in that. Dave tells me I used to do a lot and it really annoyed him, and he kind of trained me out of it. You know both my parents will start with something just incredibly minor and just keep talking about it, and talking about it, and talking about it, and getting...
+THERAPIST: And work themselves into a frenzy.
+CLIENT: Angrier and angrier. Yeah. Like into a kind of hysterical rage over something stupid. [00:31:42]
+(Pause) Like here's an example. Since I was in seventh or eighth grade and one of my dad's coworkers had a daughter in girl scouts and brought a girl scout cookie form to the office and just made an announcement during their department meeting. You know my daughter is selling cookies. Here's the form. If you want girl scout cookies I'm going to put it in the middle of the conference table. Please fill it out. My dad came home and was like can you believe what doctor so and so did. He told us we needed to buy cookies from his daughter, and he passed it around, and made us sign up, and how could he, and the gall expecting us to buy stuff, and I never bring stuff for you girls in. I don't ask my coworkers to spend their money on crap my kids sells and how dare they ask me. Don't they have any respect for me and don't they know that I don't have money to throw around. And by the time he was done 20 or 30 minutes later it was doctor so and so was personally out to get him and was trying to stab him in the back and make him look bad in front of the group so that he would get fired so doctor so and so could take his patients and get more money. It was just... [00:33:10]
+THERAPIST: Way off the deep end. 
+CLIENT: Yeah. (Pause) 
+THERAPIST: God I... 
+CLIENT: So I really worry that starting out by saying this is super annoying that our site director is telling us to decorate our cubicles. I really worry that that might turn into they're infringing on my rights and blah, blah, blah. 
+THERAPIST: Yeah you really got rolling. (Pause) Yeah, I guess I wonder if that (pause) comes out of a kind of empty alternative where there's nothing else to say. Yeah, it's unclear what else there is for us to talk about or me to kind of learn about what's going on with you. Put it this way it makes me imagine that you kind of feel like (pause) either you're here working on the problem, or one of the problems, or if you're going to just be talking you're going to be annoyed, or angry, or kind of working yourself up like that kind of just expressing yourself is okay. It isn't but... Or it's okay to be kind of working on something. [00:35:06] 
+CLIENT: Yep. 
+THERAPIST: But not just expressing yourself in some other way or talking about something else. I imagine because you already—either those things don't matter or are a waste of time, or will bore me, or will be a bad use of your time. 
+CLIENT: Right. But it's not like the long silences are particularly scintillating or a good use of my time. It's kind of almost the same sort of problem as I get into sometimes at work where if I can't get it right on the first try I end up sitting there not doing anything instead of trying and failing. Not that talking about random crap here is necessarily failing, but I have it in my head that I should always be working on the productive stuff here. [00:36:13]
+THERAPIST: Yeah. (Pause) Well boy it does sound to me like you, and your family, and your childhood like either you're working on the productive stuff or you're really pissed off, but everything else is a waste of time or it doesn't really matter.
+CLIENT: Yep. (Pause)
+THERAPIST: I mean I guess what I have in mind is a lot of the other stuff is you, and your life, and other things that matter. (Pause)
+CLIENT: And some of it is embarrassing to talk about like well there's this whole kind of subculture on the Internet of fandom, and writing fan fiction, and just being in fan culture. I don't know. I feel deeply embarrassed about when I talk about it with people who aren't also fans because it can seem... Well people get judgy about it. [00:37:31]
+THERAPIST: What sort of judgment do people have?
+CLIENT: Oh the you know people who get really involved in fandom, and write fan fiction, or go to fan conventions have no life, and have no friends, and they're kind of pathetic. They're losers.
+THERAPIST: Yeah, so we go right from the other things there might be to talk about are you and important parts of you. You are thinking of one that if you talked about it you could be judged like a loser (inaudible at 00:38:06). Yeah.
+CLIENT: So I mean... [00:38:16]
+THERAPIST: Maybe it is something you like to do.
+CLIENT: Yeah.
+THERAPIST: You like to do it. (Pause) 
+CLIENT: Yeah I'm throwing a party in a couple of weeks. I wouldn't really call it a party more like hosting a movie watching at my house with drinks, and snacks, and things that a bunch of my friends are really excited about. We'll be watching "Labyrinth" and "The Princess Bride" two of those 80's movies that were favorites of mine when I was a teen. But (inaudible at 00:39:03) heard of it. I've been planning it for two weeks, but it hasn't occurred to me to bring it up here because—I don't know. [00:39:17]
+(Pause) 
+THERAPIST: Is it important to you?
+CLIENT: Yep.
+THERAPIST: Are you excited for it?
+CLIENT: Yep.
+THERAPIST: How come? Well not how come. What are you excited for? The movies I guess. 
+CLIENT: Yeah and being able to watch them with people who appreciate them because Dave really, really doesn't.
+THERAPIST: Oh really?
+CLIENT: The coming up with recipes for the themed cocktails, planning the snacks, I really like party planning. [00:40:08]
+THERAPIST: What are you making? 
+CLIENT: I haven't decided yet. One of the drinks from "Men in Black" is going to be...
+THERAPIST: Are you going to have one with iocane powder in it?
+CLIENT: (Laughter) Iocane wine. It's different from the drink named after the "Man in Black" which will be a whisky glass washed in absinth with Irish whiskey in it on the rocks. So I think it'll be fun. Goblin King's fruit punch which will have lots and lots of rum and fruit. There has to be a peach tart for obvious reasons if you've seen the movie.
+THERAPIST: Labyrinth? 
+CLIENT: Yep.
+THERAPIST: I've not seen it. I've seen "The Princess Bride" many times though. 
+CLIENT: (Laughter) There is a kind of a key device that involves a peach that causes the girl to lose her memory. [00:41:08]
+THERAPIST: Oh. (Pause) How many people are you going to have?
+CLIENT: Oh probably about a dozen. I don't think any more than that would fit in my living room. (Pause) You know I just realized I haven't been talking about my relationship stuff because—I don't know—it's a little too fast plus I'll save it. I got burned by [inaudible] who overacted to my being polyamorous but that might actually just be it though. [00:42:18]
+Now I actually have a date tonight after this. 
+THERAPIST: Okay. Someone you've been out with before? 
+CLIENT: No. I've only chatted with him online but he knows a number of my friends. (Pause)
+THERAPIST: Yeah, you're then struck by all the reasons there are not to talk about these things eventually do matter to you. I know they're important (inaudible at 00:43:01) or where they would go but (inaudible at 00:43:06). I just care about your life. [00:43:13]
+CLIENT: (Pause) There are other things that I don't talk about because they're just... Trying to talk about them makes me feel tired like almost physically tired. So our bishops are coming to my parish next Wednesday to talk about race with us, and I'm designing a service of healing and reconciliation for afterwards. It's really big, and it's taken up a lot of my time, and it's really important, and I haven't talked about it because just trying to put together in words everything that's going on and how I feel about it is just kind of exhausting. Like I haven't talked about it to anyone not even Dave because I can't find words. [00:44:08]
+THERAPIST: Do you know why it's so tiring?
+CLIENT: I think part of it is I'm still mad at my priest, and we talked a little bit in exchanged a couple of e-mails but she's (pause) still behaving badly; not owning responsibility for anything. And part of it is our group meetings on the anti-racism team are just so incredibly frustrating, and there's so many people saying horrible things, and it's just (pause). And the healing service trying to put together texts for people to read that will minister to both kind of perpetrators and targets of... [00:45:22]
+I mean the bishops are only talking to us about racism, but our anti-oppression team is also looking at classes and problems in our community, and being able to minister to both of those groups at the same time, and have it be meaningful and challenging without driving people away because the priest have given me the directive that the service can't be too challenging because we don't want people to leave and take their tithing dollars with them. There's so much and it's just such a big thorny knot of overlapping and intersecting problems, and it's hard to tease out any one thing to kind of isolate, and examine, and analyze because it's all interconnected. Yeah. 
+THERAPIST: We can stop for now. 
+CLIENT: Uh huh. [00:46:27]
+END TRANSCRIPT

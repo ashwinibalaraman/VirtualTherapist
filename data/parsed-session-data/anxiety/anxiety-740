@@ -1,0 +1,261 @@
+Transcript of Audio File:
+______________________________________________________________________________
+BEGIN TRANSCRIPT:
+THERAPIST: Also, I have - I just found out this morning that I have to be out for part of tomorrow afternoon, and so I need to reschedule, just for tomorrow.
+CLIENT: Okay.
+THERAPIST: I'm sorry for letting you know so late. I really try not to do that, but I - I mean this time I couldn't help it. There are other times I could meet, including maybe tomorrow morning. It's just in the afternoon I have to be out.
+CLIENT: Do you have anything on Friday?
+THERAPIST: I do. Yeah.
+CLIENT: Tomorrow morning is bad for me.
+THERAPIST: Okay. I could do 12:30 on Friday?
+CLIENT: Okay. Yeah.
+THERAPIST: Is that good? All right. Again, I'm sorry for the short notice.
+CLIENT: I'm not one to throw stones.
+(Pause)
+CLIENT: Twelve thirty, right? [00:01:02]
+THERAPIST: Twelve thirty. Yeah. I can actually do that one in general, if that's better for you, or I can keep our - our Thursday - usual Thursday time because either one is fine.
+CLIENT: Well, we're gonna have to change things up when I start the job anyway, right? So...
+THERAPIST: So keep it the way we have it?
+CLIENT: Yeah.
+THERAPIST: Okay.
+CLIENT: Keep it where we have it until...
+THERAPIST: As long as we're talking about it. Well, I guess two things. One, does that mean you accepted a job or you just...
+CLIENT: I'm going to accept a job. I'm trying to negotiate more salary.
+THERAPIST: Right.
+CLIENT: But I only have one offer. The startup I was interviewing with last week said that they really liked me and they thought I was very smart, but they want someone with actual industry experience, specifically doing display technology.
+THERAPIST: I see.
+CLIENT: Good luck finding it is all I can say to them because that's a - a remarkably tiny niche. [00:01:58]
+THERAPIST: I see. There's like all three people out there.
+CLIENT: Yeah. And no one in the office knows display technology. I mean if they were based in China and hiring out of Chinese universities, sure, there are plenty of people, but ...
+THERAPIST: I see.
+CLIENT: But... yeah.
+THERAPIST: Well, I'm sorry it didn't work out.
+CLIENT: C'est la vie. It would've been nice if it did, but as Dave pointed out, there are many people whose dream job is designing CPU's, and that's certainly nothing to sneeze at. And I keep moving my goal post for what kind of job would make me happy. I mean four years ago, if you had asked me, I would've said working for [inaudible]. That's my dream job, but...
+THERAPIST: I remember it sounding pretty good as recently as after you applied but before you were to go to an interview.
+CLIENT: Yeah. But it's doing digital, and there's kind of this chauvinism with Industry from analog designers towards digital. There's kind of this attitude among analog designers that digital is what you do if you're not smart enough to do analog. It's kind of the, you know, monkeys throwing feces at the wall ... [00:03:05]
+THERAPIST: I see. What's the ...
+CLIENT: ... level of skill.
+THERAPIST: ... what's the difference in this context? I - I don't enough about (crosstalk at 00:03:14).
+CLIENT: Different types of circuits? I mean digital is a lot of ones and zeros, dealing with binaries, dealing with timing clocks, CPU frequency. Whereas, analog does things like analog to digital converters so, you know, if you have - you know, a great example is a microphone recording voice, you know, digitizing that into binary ones and zeros. How do you do that correctly.
+THERAPIST: I see. So you're talking about like the architecture of the hardware that sort of - it seems to me like drivers usually do things like this, right? [00:03:57]
+CLIENT: Yep.
+THERAPIST: But some of it's baked into hardware, and some of it is in software. And are you saying the difference is like... some of those things are done in analog fashion and some digitally?
+CLIENT: (Sigh) Different. I mean they're used for different purposes within the chip, right? So like within the chip, anything that's talking to the outside world. So anything that's say producing sound or producing - or recording sound or recording imagery in a camera, for example, has to be able to convert from analog, which is what our world is, smooth curves...
+THERAPIST: Right.
+CLIENT: ... to digital, which is now a series of steps.
+THERAPIST: Sure.
+CLIENT: So, you know, if you have a circle, but you can only represent it in pixels, you have jagged edges. [00:05:01]
+THERAPIST: Right. Right.
+CLIENT: Right. So analog deals with, you know, the smooth curves, the amplifier, the converting between analog and digital, whereas digital operates entirely in ...
+THERAPIST: Digital to digital?
+CLIENT: Yeah.
+THERAPIST: Okay. I get it.
+CLIENT: So if you're adding binary numbers, you need a digital adder or a ... yeah. I don't know. Like Dave tells me this chauvinism is completely stupid and there are hard problems to solve in digital design. And certainly people who design CPU's are not idiots, but they're still - all of my background is in analog, and ...
+THERAPIST: Oh, I didn't realize that.
+CLIENT: Kind of cultural ...
+THERAPIST: Yes, I see.
+CLIENT: ... prejudice that I've absorbed.
+THERAPIST: I see. It reminds me a little of like my impression is that often physicists like to see themselves as like kind of the smartest of scientists in the top of the pyramid or something like that. It would be like somebody going from physics into one of those somewhat softer sciences or ... [00:05:59]
+CLIENT: Right.
+THERAPIST: ... just something that isn't physics and isn't as cool.
+CLIENT: Or a mathematician doing something applied. Oh, no, it's not as pure as pure math.
+THERAPIST: Oh, my God.
+CLIENT: Yeah.
+THERAPIST: Okay.
+CLIENT: Same sort of thing.
+THERAPIST: I - I see.
+CLIENT: So anyway. But I'm gonna take the job. I'm trying to negotiate for more money.
+THERAPIST: Right.
+CLIENT: I hate negotiating for more money, but ...
+THERAPIST: Let me just ask you this - this before we get into that. Do you have any sense of what kinds of times are likely to be good? I remember your saying that this wouldn't start probably until June or so.
+CLIENT: Yeah. Yeah.
+THERAPIST: But just so that I (crosstalk).
+CLIENT: Just start dating my offer letters June 25th.
+THERAPIST: Okay. But like what times of day would be good, so I can keep an eye out?
+CLIENT: Right. Probably - probably late afternoons. Like after 4:00.
+THERAPIST: Okay.
+CLIENT: I don't know how late you work.
+THERAPIST: I'm generally in until about 6:00, so I have a couple of appointments after 4:00.
+CLIENT: Okay. [00:07:00]
+THERAPIST: And any open up.
+CLIENT: Yeah. Or early mornings like 8:00.
+THERAPIST: Okay. Yeah, I'm usually in about a quarter 'til 8:00, so okay, but those are going to be a little difficult to come by.
+CLIENT: Right.
+THERAPIST: But I imagine with as much leave time, and I'll be in touch, we'll probably figure something out.
+CLIENT: It's far enough out that I couldn't do lunch because it's, you know, 45 minutes out and 45 minutes back.
+THERAPIST: Sure. No, I totally understand. I don't think there will be a problem with this much leave time finding like a 4:30 or something like that. I can't be sure about that, you know, but very likely.
+CLIENT: Okay.
+THERAPIST: And I probably congratulated you the other day, but I'll do it again.
+CLIENT: Thank you.
+THERAPIST: You're welcome.
+(Pause)
+THERAPIST: I can remember our ending on a brutaler point about your feeling more comfortable when I asked you a set of questions... [00:08:10]
+CLIENT: Yep.
+THERAPIST: ... as opposed to when I asked you open - a few open-end questions, such as what's on your mind or what comes to mind?
+CLIENT: Right.
+THERAPIST: Things like that.
+CLIENT: Yep.
+THERAPIST: That I am prone to do.
+(Laughter)
+THERAPIST: And I think you associated to - was it like beginning an art project?
+CLIENT: Uh-huh.
+THERAPIST: I guess a canvas experience.
+(Pause)
+THERAPIST: I see that as probably very closely tied up with other things that you struggle with or are difficult for you. [00:09:12]
+CLIENT: Unsurprising.
+(Laughter)
+THERAPIST: Like unsurprising 'cause I'm a psychologist and we always say things like that? Or unsurprising...
+(Laughter)
+THERAPIST: ... because of that particular issue?
+CLIENT: Both.
+THERAPIST: Okay. Well, I guess for the moment, tell me more about the latter part of that. Not so much the part about me being a psychologist, but we can certainly talk about that as well. But the part about your impression of the ways that connect to other things that you're sure were good. [00:09:57]
+CLIENT: It just seems to me self-evident that they're connected because they - they're both - or they're all - there's not just two things I'm thinking of here, but just in general, questions that are not just questions, but activities that are open-ended and require me to express myself in an unconstrained way are very difficult for me. So some examples would be, you know, attempting to produce a piece of art, or, you know, a lab report question that says, you know - you know, explain your thoughts on, you know, further research that can be done. Or, you know, like in - in classes, there's an assigned lab with, you know, a very constraint this is what you do if they're trying to prove a particular point. And then at the end, they ask you where could you go from here? Well, I don't know. That's kind of - and so the way I - I address those is usually by trying to find what experts in the field have said where do you go from here in the published literature and then pirate that back. Not pirate, but, you know, simplify. Or you know, we did this exercise as part of the young adults administrative church creating a spiritual autobiography was the cheesiest thing ever, but a lot of the questions were "how did you feel your relationship with God was at this time in your life?" Well, I don't even know where to begin to answer that, and, you know, much more constrained questions are much easier for me to answer when there's a framework already for me to build on. [00:11:56]
+(Pause)
+THERAPIST: And I suspect we both imagine that, you know, it may have something to do with just kind of like a cognitive style or the way you tend to think about things possibly, but it certainly has to do with how much safer that feels. I think you feel a lot less vulnerable to criticism when it's - when you're answering and - I don't know if this is the right way to put it, but like in a kind of more deterministic way.
+CLIENT: Right. And I mean I remember having this kind of panic anxiety at open-end questions as early as, you know, ten years old ... [00:12:58]
+THERAPIST: Yeah.
+CLIENT: ... on, you know, homework assignments. I can't count the number of homework questions I left unanswered just because it was too scary to come up with an answer.
+THERAPIST: Yeah. I guess this is why I'm hesitant like - it seems to me in this sort of a longer view it's probably more helpful if I don't just make this one easier for you.
+(Laughter)
+THERAPIST: I don't want to help.
+CLIENT: Right.
+THERAPIST: But that ...
+CLIENT: But there's a difference between helping and enabling?
+THERAPIST: Yes. Yeah, I mean enabling pathologizes what you're struggling with ...
+(Laughter)
+THERAPIST: ... but - to put it that way, but, uh ...
+CLIENT: Sorry. My desire to be flip - I often ignore nuance. [00:13:57]
+(Laughter)
+THERAPIST: Right. You know, rather than give me the chance to sort of understand and hopefully like address the kind of vulnerability that open-ended questions evoke. Is there any more you can say about your - any experience with that here?
+CLIENT: Here, like in these sessions?
+THERAPIST: Yeah.
+CLIENT: Well, I mean - sometimes, it's just literally drawing a blank. Like I can't think of anything to say. But sometimes, it's - you know, you'll ask me what's on your mind, and I think well, I undercooked my egg this morning, but that's - kind of a ridiculous thing to talk about. Or like trivialities pop up and I can't ... and I feel like they're ridiculous to bring up. I didn't actually undercook my egg this morning. That's an example from a couple of weeks ago. I skipped breakfast this morning. [00:15:12]
+THERAPIST: I would bring them up anyway. It's like... okay. There's sort of like a bit of a dinactic (ph) piece that'll do here on this sort of form of therapy. And then, there's probably also like some worries about criticism and the importance in general of things you have to say or that have happened to you that I imagine is part of the issue there. But because the dinactic part like ... I guess the bit of matter of faith, but like you never know where something's gonna go. I mean I - I say that like I've done this for a while, and knowing or having seen many times that like you just - you just don't know, and even things that start out seeming very random and terribly inconsequential, like these other things. I mean, for example, like the feeling of an undercooked egg can remind you of some other thing. It can remind you of some other thing that turns out to be really important, and... I'll give you an example. I remember it was a while ago. I don't remember quite what got us on to talking about your wanting to go for a walk around this area with your best friend from high school. But it wasn't 'cause we started out having any idea that's what we're gonna get. I think I probably just asked you something like oh, like you were down. I said probably something like there's anything that'll make you feel better, and then like you thought about a walk with her. And I think you got pretty emotional about it, just remembering her and missing her and the times you had and the thing that happened to her and stuff like that, and I guess I'm saying that kind of thing can come from undercooked eggs or - you know what I mean? Like you just can't know. [00:17:50]
+(Pause)
+THERAPIST: So I guess that's sort of like my argument for ... you know, whatever's on your mind even if it seems unimportant, inappropriate, or irrelevant.
+(Pause)
+THERAPIST: Is there also a worry there about... like...is it just you thinking how could this possibly be anything useful or be at all worth talking about? Or is there another bit of it that's like I may care that I had an undercooked egg this morning, but Ethan is gonna think that's ridiculous. Or something along those lines? [00:19:02]
+CLIENT: No. I think it's more not wanting to waste the time. So I get an hour and a half a week.
+THERAPIST: Right.
+CLIENT: And I want to be fixed. And that's like an awfully mechanistic view of the human mind, and I realize this. But like - but it's actually what I want ...
+THERAPIST: Sure.
+CLIENT: ... and once I - I strip away all intellectual arguments saying, you know, that's not rational. And how is talking about taking my hardboiled eggs off the stove a minute too early and having runny egg yolks going to lead towards fixing my brain? Like ...
+THERAPIST: Gotcha.
+CLIENT: Well, I guess what I'm trying to say is I want to make as efficient use of this time as possible, especially given that when I'm talking about hard stuff, I often have to circle around an idea three or four times before I actually say what I want to say. I'm frustratingly vague the first time around. And that takes time and yeah. [00:20:01]
+(Pause)
+THERAPIST: Yeah, I guess there's a couple of issues there. I mean it's one thing to talk off the top of your head...I mean I - I'm contending that as sort of kind of counter-intuitive as it seems, that can often provide the most direct route to addressing what matters most. [00:21:15]
+CLIENT: Okay.
+THERAPIST: Which is I'm aware is like opposite to how one generally goes about solving problems. And there's another issue though that you raised, which has to do with like avoiding things. You know, I mean I think it's a different story when you know what you want to be talking about is "x" and are anxious talking about it and find yourself talking about something else because that gets really hard to talk about. And, you know, we're both on the lookout for that kind of thing. I mean certainly, I don't know if it seems this way to you, but ...
+CLIENT: Do I have a tell? [00:22:04]
+(Laughter)
+THERAPIST: I mean ...
+CLIENT: You can't answer that because then I'll go about hiding the tell, right?
+THERAPIST: No. No. I - I actually would - I went into that like ... see for me like, let's say when you seem to be avoiding things, you hold your body in a different way or you - I assume this is the kind of thing you're referring to, right?
+CLIENT: Uh-huh.
+THERAPIST: Like I would actually let you know. I'd say like, you know - or you're like oh, you seem to be circling around this. I imagine it's hard to talk about or I would just ask you directly like.
+(Pause)
+THERAPIST: I guess my question is really like, "Does this feel that sort of adversarial to you?" [00:23:18]
+(Laughter)
+THERAPIST: Like that I would want to seek out how you were hiding things, but then not let you know so that I could sort of continue to surreptitiously gather what you - information you were hiding?
+CLIENT: I mean not in a malicious way, but say, you know, it might be more effective to poke at my brain if I don't realize that's what you're doing, if that makes any sense.
+THERAPIST: Sure. I think I follow.
+CLIENT: I mean why wouldn't you use the most efficient route towards doing your job? [00:23:57]
+THERAPIST: Oh, I hope I do. I just - don't really see keeping you in the dark about how I'm approaching this as being particularly helpful. I mean - I mean as far as tells and such, like (inaudible at 00:24:33) road at some point like, hey, once you get to know somebody well, like nobody's really that good at lying about what really matters.
+(Laughter)
+THERAPIST: You know, it kind of spilled out for them, and - and, you know, anybody who's really paying attention, like it's really not that hard for somebody else to see. You're often easier than the person being observed. Like where the difficulties are or like what somebody's sensitive about or anxious about and like it means to me very useful (inaudible at 00:25:10) for you if I can say something about that to you. [00:25:13]
+CLIENT: Okay.
+(Pause)
+THERAPIST: What are some kinds of things that you have felt like you kind of danced around before going at them more directly?
+CLIENT: I'm blanking on coming up with an example.
+THERAPIST: Uh-huh. You just remember kind of having that impression?
+CLIENT: Yeah.
+(Pause)
+THERAPIST: Well, what does come to mind? [00:26:06]
+(Laughter)
+CLIENT: For the last two days, my advisor has asked me to work in her office instead of working from home. So yesterday, I went to meet her at 2:30, and she kept me until 10:30 before she let me go, and she bought me dinner. And she was supervising and micromanaging my work, and I was in her office again at 9:30 this morning, and she gave me two hours to come here and get some lunch and I'm expected back. And I mean on one hand there is a paper deadline tomorrow, so this has to get done, and I was not being effective working on my own, and the weekly meetings were just not getting it done. And also, I have been so much more productive, like more has gotten done these last few days than in the entire previous month. And like it feels good to actually be getting stuff done and figuring stuff out. But on the other hand, A, it's humiliating that I'm being micromanaged, even though I need it, and B, there have been accountments in the last few days - like I've lost count of the number of times where I've gotten a simulation result I don't understand, couldn't explain it, gotten frustrated, and if I were on my own, I would've thrown my hands up into despair and said, "Well, what can you do? Fucking simulators," and gone and played games for four hours when my advisor came back and said, "Well, try these four debugging steps." And they're all things that I should have been able to think of myself, and they're all things that I should have already done weeks ago. And it's just - I'm really angry at myself that I can't keep pushing through the frustration to come up with a decent debugging plan, especially because at my last job working on circuits that were not mine that I didn't design, I was really, really good at debugging test failures, like figuring out what was wrong. So like there's no - there's no reason that I shouldn't be able to debug this circuit except whatever's going on psychologically. It's not an intellectual block, is it? [00:28:17]
+THERAPIST: I follow.
+CLIENT: Emotional and psychological, and that's really frustrating. And, of course, when I get frustrated, I get angry and - and also, I'm just humiliated sitting there in her office. You know, she knows when I take a break to pee.
+THERAPIST: You must feel like a little kid?
+CLIENT: Yep. But clearly, I need it because like I said, more has gotten done in the last two days than the entire last month, so I tend to feel like I don't have any right to feel humiliated because I - I earned this. I brought it down on myself.
+THERAPIST: I guess that makes it even more humiliating.
+(Pause)
+THERAPIST: I ... [00:29:59]
+(Pause)
+THERAPIST: (inaudible at 00:30:17) some type of cure.
+(Pause)
+THERAPIST: I wonder if you feel guilty when someone shows an interest in you and you edge that by in part by doing things to humiliate yourself in front of them? [00:30:59]
+(Pause)
+CLIENT: Maybe. That was my last therapist's theory also, except instead of humiliate, she said self-sabotage or destroy your own success, but...
+THERAPIST: I see - yeah, I guess we were talking about something like that the other day.
+CLIENT: And I mean, it...
+(Pause)
+CLIENT: And it certainly is a theory makes a lot of sense put together with, you know, other things that I know about myself and my past. The, you know, strong belief that you're either a no-talent loser or NFL quality superstar, and, you know, feeling disappointed in myself for not being a superstar, and thus, you know...so I mean maybe a part of me does reject being seen as, you know, semi-confident somewhere in that middle ground, but... and if that's true, I don't know how to deal with it because clearly, it's not making me happier acting in my overall self-interests. [00:32:32]
+THERAPIST: Wait. What was - I'm missing the connection between what I was saying and the no-talent loser or NFL superstar and having trouble seeing yourself in the middle ground there. Like I guess there clearly is one, I just - I - I'm...
+CLIENT: So the feeling guilty would - well, let me flip that around.
+THERAPIST: Sure.
+CLIENT: Since I'm not a superstar, clearly, I must be a no-talent loser. And if people are taking an interest in me and think that I'm anything but a no-talent loser, then clearly, I'm deceiving them in some way, hence the feeling guilty, which leads into what you were saying.
+THERAPIST: Yep. Yeah, that - that - that - that's very clear to me what you just said. I just - I - didn't see (inaudible at 00:33:21) linking them up, but thinking about it that way makes a - I - I get it. I also wonder if it's something that you do somewhat just in here. Like I would imagine I'm conveying interest in you and what's going on with you and what's happened to you and what matters in your life these days and things like that. [00:33:52]
+CLIENT: But I'm paying you to do that.
+THERAPIST: Well, that's true.
+CLIENT: My assurances.
+THERAPIST: Absolutely. Why are you quick to mention that?
+(Laughter and pause)
+CLIENT: Well, it's not - it's not the same sort of thing because I'm not deceiving you about my value, right? Like there's a very clear monetary value to you, so it's not that I'm passing myself off as more interesting or more charming than I am, right?
+THERAPIST: I see. So...this isn't about my having - and that sounds like it's even a genuine interest in you, it's about my want to get paid. [00:34:55]
+CLIENT: Or wanting to do your job well. A sense of professional pride. I mean I don't know ...
+THERAPIST: Sure.
+CLIENT: ... what motivates you, but, you know.
+THERAPIST: Except that we're clear that it's not ...
+(Laughter)
+THERAPIST: ... I take an interest in what's going on with you. I mean - not that I mean to be (inaudible at 00:35:24) of the other stuff. Like I hope I do have some professional pride, and I do like to get paid. I'm not making a secret of those things. But it does seem to me that you're fairly quick to point to those as reasons why I'd be interested. I'm not saying they're irrelevant, but I guess it makes me wonder... [00:35:49]
+(Pause)
+THERAPIST: ... I may be misconstruing you a little bit in this reading just a little bit, but the speed of which you jumped to that struck me a little defensive or worried or something.
+CLIENT: And now I can't remember what it was you said that prompted me to respond with that.
+THERAPIST: I said...something about perhaps there being a similar thing operative here ...
+CLIENT: Uh-huh. Right. [00:36:45]
+THERAPIST: ... where you feel - I didn't elaborate, but I am right now. Like sort of guilty at some level for the attention, and among other things at times, like saying things that make you feel bad about yourself as a way of managing that.
+CLIENT: Okay. So I think - and I say things that are bad about myself regardless of whether I'm here or elsewhere, so that's not...
+THERAPIST: I know.
+CLIENT: ... unique. I think I jumped to pointing out that, you know, there's, you know, a defined monetary exchange because - because if I do feel guilty about the fact that you're talking to me in these sessions, that's like in - in my estimation, far off the scale of irrationality than feeling guilty about my advisor thinking that I might not be a no-talent loser. I mean 'cause that's - I - it just - it seems an order of magnitude more ridiculous to me. So maybe I was being defensive to kind of make a case for saying, "No, I'm actually not feeling guilty here because ..." [00:38:14]
+THERAPIST: I see 'cause what you're feeling defensive about was what kind of felt like a - a supposition by me that you were doing something that would be in your view like radically irrational?
+CLIENT: Yep.
+THERAPIST: I see.
+(Pause)
+THERAPIST: Well, it's where it - it certainly wouldn't be unusual in this kind of setting to feel something like that, or you know or similar things. I mean like as an empirical matter apart from ... [00:39:46]
+(Laughter)
+THERAPIST: ... its sort of degree of rationality.
+(Pause)
+THERAPIST: What's so worrisome about being irrational? [00:40:43]
+CLIENT: Isn't irrationality just a bad thing? I mean ...
+THERAPIST: In my view, we're all deeply irrational. I mean I ...
+CLIENT: But - but we should strive to be rational and suppress our irrational instincts as, you know, something humans should have evolved past. I don't know. I've never actually questioned this. Being rational is good. Being irrational is bad. That's - that's all there is to it. [00:41:24]
+(Laughter)
+THERAPIST: All right. Well, if that's the way it works, then I guess I'm glad to know that. I don't know. The question of time scale seems kind of important, you know. Like ... for example, like to allow oneself to have a fit about something, you know, knowing that that's ultimately helpful. All right. Maybe that's what I'm making a case for then is short-term irrationality in the service of long-term rationality. I think they would be actually kind of based in part on that principle. In other words, like examining one's seemingly irrational thoughts or reactions with the idea that it is at least helpful to know what those are, which requires some indulgence in them in the service of, you know, being able to understand things more logically and coherently in the long term. I guess I'm making an intellectual argument here. [00:42:42]
+(Laugh)
+CLIENT: Yes, you are.
+THERAPIST: But ...
+(Pause)
+CLIENT: And, of course, I realize I'm not consistent. You know, just for example, I have a religious faith when, you know, a purely rational sense would be since supernatural beings can't be proven or disproven, the only rational course of action is to be agnostic, say you can't now, but yet I do say I know and ...
+THERAPIST: Right. Right.
+CLIENT: ... that's completely irrational, and I don't consider that a bad thing, so I don't know. [00:43:42]
+THERAPIST: I guess one question that emerges here is like ... you know, sometimes we can think there's a rational basis for your valuing of rationality, but there's - there's also a, you know, probably not as rational a basis, and maybe that's of interest. In other words, or (inaudible at 00:44:11), you know, it could be like what we were saying before about liking deterministic problems better. It's not because those are the only work ones, it's partly 'cause those make you feel safer, which, you know, given what you grew up with and other things like makes all the sense in the world I mean ... [00:44:36]
+CLIENT: Right.
+THERAPIST: And I wonder if the business about rationality is related to that. You know? And feeling so much safer when you know you're being rational about some things. And so much more vulnerable or ashamed when you're not. I don't know. What do you think?
+CLIENT: I don't know. That's another open-ended question.
+(Laughter)
+CLIENT: What do I think? I think I'm willing to accept an explanation at this point.
+THERAPIST: How come?
+CLIENT: Well, I mean my working theory before I started therapy at all was, you know, I'm just a moral reprobate, and that's why I suck, and, you know. But you provided a much more palpable explanation of what's going on in my head that doesn't, you know, paint me as, you know, this horrible person. [00:46:00]
+THERAPIST: So you're really sick and tired of feeling like a horrible person?
+CLIENT: Yep.
+THERAPIST: That's a lot of why you're looking for another theory.
+(Pause)
+CLIENT: Well, that and also, you know, a change in behavior would be nice also. Being able to actually get my shit done.
+THERAPIST: Of course.
+(Pause)
+THERAPIST: Okay. I'm gonna stop for now.
+CLIENT: Friday. Not tomorrow. Right?
+THERAPIST: Right. Friday at 12:30. And let me know - I mean you mention only having an hour and a half a week. If you ever want to come in more, that's really fine with me. I see people, you know, often throughout the week. [00:46:57]
+CLIENT: Okay.
+THERAPIST: Well, and good luck.
+END TRANSCRIPT
